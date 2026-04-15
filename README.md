@@ -33,8 +33,14 @@ Phiên bản này dành cho các bạn muốn tìm hiểu sâu về code hoặc 
 * `test_trie.py`: File chứa các unit test để kiểm tra độ chính xác của thuật toán.
 
 ### Cách chạy chương trình:
-1. Giải nén file `English_Dictionary.zip`.
-2. Mở Terminal (hoặc Command Prompt) tại thư mục vừa giải nén.
-3. Chạy lệnh sau để khởi động ứng dụng:
+1. Mở Terminal (Command Prompt hoặc PowerShell).
+2. Di chuyển (cd) vào thư mục chứa dự án.
+3. Chạy lệnh:
    ```bash
    python main.py
+4. Sử dụng: Nhập các số từ 0 đến 6 theo menu hướng dẫn để thao tác với từ điển.
+
+### Kiểm tra logic thuật toán:
+Để chạy các bài kiểm tra tự động (unit tests) nhằm xác minh độ chính xác của Radix Trie, sử dụng lệnh:
+  ```bash
+  python test_trie.py
