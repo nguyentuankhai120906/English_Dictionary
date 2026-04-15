@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files (Python rác)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local data (Thư mục lưu dữ liệu từ điển của bạn)
+# Chúng ta không nên push dữ liệu cá nhân lên GitHub
+dictionary/data/
+data/
+
+# OS metadata (File rác của Windows/Mac)
+.DS_Store
+Thumbs.db
+
+# IDEs (Cấu hình riêng của trình soạn thảo code)
+.vscode/
+.idea/
+*.swp
+
+# Phớt lờ các file log
+*.log
