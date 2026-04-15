@@ -21,7 +21,7 @@ Dự án này là một ứng dụng Từ điển Tiếng Anh mã nguồn mở, 
 
 ## 2. Phiên bản Python (Mã nguồn & CLI)
 
-Phiên bản này dành cho các bạn muốn tìm hiểu sâu về code hoặc chạy ứng dụng trong môi trường terminal.
+Phiên bản này dành cho người dùng muốn tìm hiểu sâu về code hoặc chạy ứng dụng trong môi trường terminal.
 
 ### Yêu cầu hệ thống:
 * Máy tính đã cài đặt **Python 3.10** trở lên.
